@@ -1,7 +1,7 @@
 #include "max.h"
 #include "min.h"
 
-
+//ytk
 int diff(int *arr, int size){
     int a = max(arr, size);
     int b = min(arr, size);
